@@ -8,5 +8,22 @@ This cost reduction is mainly attributed to SpaceX's ability to reuse the first 
 * Additional information collected through Web scraping [Link here](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_(2010%E2%80%932019)). 
 * Data Wrangling and processing
 * Exploratory analysis using SQL magic and Python visualization tools.
-* Data analytics using Folium Interactive maps and Plotly Dshboards
+* Data analytics using Folium Interactive maps and Plotly Dashboards
 * Predictive analysis using Machine Learning Classification algorithms.
+### Dependencies 
+* Data collection Libraries
+    * Requests
+    * Beasutiful Soup
+* Data Wrangling and processing Libraries
+    * Pandas
+    * Numpy
+* Visualization Libraries
+    * Matplotlib
+    * Seaborn
+    * Folium
+    * Plotly
+    * Dash
+* Machine Learning Libraries
+    * Scikit Learn
+### Conclusion
+The exploratory data analysis has shown us that successful landing outcomes are somewhat correlated with flight number. It was also apparent that successful landing outcomes have had a significant increase since the year 2013. All launch sites are located near the coast line. This makes it easier to test rocket landings in the water. The machine learning were able to predict the landing success of rockets and the best model was decision tree algorithm.
